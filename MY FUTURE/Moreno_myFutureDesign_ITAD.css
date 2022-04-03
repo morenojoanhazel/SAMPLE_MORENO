@@ -1,0 +1,297 @@
+body{
+    background-image: url(Bg.png);
+    background-repeat: no-repeat;
+    background-position:top;
+    background-size:contain;
+    background-attachment: scroll;
+    background-color:#005190;
+}
+h1{
+    text-align: right;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 7em;
+    margin-right: 50px;
+    color:#042742;
+    text-shadow: 6px 7px 10px rgb(87, 86, 86);
+
+}
+q{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:2em ;
+    font-style: italic;
+    color: whitesmoke;
+}
+p{
+    text-align: justify;
+    font-size: 1.5em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 30px;
+    word-spacing: 2px;
+    text-indent: 35px;
+    color: white;
+}
+
+h2{
+    font-size: 8em;
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin:0px 0px 0px 90px;
+    text-shadow: 10px 10px 10px black;
+}
+
+h3{
+    font-size:4em;
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin:0px 0px 5px 90px;
+    text-shadow: 10px 10px 10px black;
+}
+
+img.woman{
+    float: right;
+    height: 300px;
+    width: 600px;
+    margin: 0px 45px 0px 0px;
+    border: 5px solid whitesmoke;
+}
+
+img.house{
+    float: right;
+    height: 300px;
+    width: 450px;
+    margin: 0px 5px 0px 0px;
+    border: 5px solid whitesmoke;
+}
+
+img.car{
+    float: left;
+    height: 300px;
+    width: 450px;
+    margin: 0px 5px 0px 0px;
+    border: 5px solid whitesmoke;
+}
+
+h2.parents{
+    font-size: 3.9em;
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin:0px 0px 0px 90px;
+    text-shadow: 10px 10px 10px black;
+}
+
+h3.house{
+    font-size: 2.8em;
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin:50px 0px 0px 90px;
+    text-shadow: 10px 10px 10px black;
+    text-align: center;
+}
+
+img.job{
+    float: left;
+    height: 300px;
+    width: 700px;
+    margin: 0px 0px 0px 80px;
+    border: 5px solid whitesmoke;
+}
+
+h2.job{
+    font-size: 3.9em;
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin:0px 0px 0px 90px;
+    text-shadow: 10px 10px 10px black;
+}
+
+
+h2.stable{
+    font-size: 3.9em;
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin:50px 170px 0px 0px;
+    text-shadow: 10px 10px 10px black;
+    text-align: right;
+}
+
+h2.some{
+    font-size: 3em;
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin:50px 170px 0px 0px;
+    text-shadow: 10px 10px 10px black;
+    text-align:center;
+}
+
+img.someone{
+    height: 400px;
+    width: 700px;
+    margin: 25px 0px 0px 400px;
+    border: 5px solid whitesmoke;  
+}
+
+a:link.home{ 
+    color:bisque; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 15px; 
+    font-size:22px ;
+}
+
+a:visited.home{
+    color:azure;
+}
+a:hover.home{
+    color:#005190;font-weight:bold; 
+    background-color:rgb(70, 182, 226); 
+    padding: 15px;
+}
+ a:active.home{
+     color:chartreuse;
+}
+
+a:link.me{
+    color:bisque; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 15px; font-size:22px ;}
+a:visited.me{
+    color:azure;
+}
+a:hover.me{
+    color:#005190;
+    font-weight:bold; 
+    background-color:rgb(70, 182, 226); 
+    padding: 15px;
+}
+a:active.me{
+    color:chartreuse;
+}
+    
+a:link.resume{
+    color:bisque; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 15px; 
+    font-size:22px;
+}
+a:visited.resume{
+    color:azure;
+}
+a:hover.resume{
+    color:#005190;
+    font-weight:bold; 
+    background-color:rgb(70, 182, 226); 
+    padding: 15px;
+}
+a:active.resume{
+    color:chartreuse;
+}
+    
+a:link.interest{ 
+    color:bisque; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 15px; 
+    font-size:22px;
+}
+a:visited.interest{
+    color:azure;
+}
+a:hover.interest{
+    color:#005190;
+    font-weight:bold; 
+    background-color:rgb(70, 182, 226); 
+    padding: 15px;
+}
+a:active.interest{
+    color:chartreuse;
+}
+
+a:link.beats{ 
+    color:bisque; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 15px;
+    font-size:22px;
+}
+a:visited.beats{
+    color:azure;
+}
+a:hover.beats{
+    color:#005190;
+    font-weight:bold; background-color:rgb(70, 182, 226); 
+    padding: 15px;
+}
+a:active.beats{
+    color:chartreuse;
+}
+
+a:link.film{ 
+    color:bisque; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 15px; 
+    font-size:22px ;}
+a:visited.film{
+    color:azure;
+}
+a:hover.film{
+    color:#005190;
+    font-weight:bold; 
+    background-color:rgb(70, 182, 226); 
+    padding: 15px;
+}
+a:active.film{
+    color:chartreuse;
+}
+
+a:link.travel{ 
+    color:bisque; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 15px; 
+    font-size:22px;
+}
+a:visited.travel{
+    color:azure;
+}
+a:hover.travel{
+    color:#005190;
+    font-weight:bold;
+    background-color:rgb(70, 182, 226); 
+    padding: 15px;
+}
+a:active.travel{
+    color:chartreuse;
+}
+
+a:link.bucket{ 
+    color:bisque; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 15px; 
+    font-size:22px;
+}
+a:visited.bucket{
+    color:azure;
+}
+a:hover.bucket{
+    color:#005190;font-weight:bold; background-color:rgb(70, 182, 226); 
+    padding: 15px;
+}
+a:active.bucket{
+    color:chartreuse;
+}
+
+a:link.photo{ 
+    color:bisque; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 15px; 
+    font-size:22px;
+}
+a:visited.photo{
+    color:azure;
+}
+a:hover.photo{
+    color:#005190;
+    font-weight:bold; 
+    background-color:rgb(70, 182, 226); 
+    padding: 15px;
+}
+a:active.photo{
+    color:chartreuse;
+}
